@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/* Задача 1
+    В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К.
+     */
 public class Program {
     public static void main(String[] args) {
 
