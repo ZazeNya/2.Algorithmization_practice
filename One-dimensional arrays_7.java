@@ -2,8 +2,8 @@ import java.util.Scanner;
 import java.util.*;
 
 /* Задача 7
-    Задана последовательность N вещественных чисел.
-    Вычислить сумму чисел, порядковые номера которых являются простыми числами.
+     Даны действительные числа а1 ,а2 ,..., аn. Найти max(a1+a2n, a2n+a2n-1,...,an+an-1)
+    Найдем max (ai+an, a(i+1)+a(n-1), ....)
      */
 public class Program {
     public static void main(String[] args) {
